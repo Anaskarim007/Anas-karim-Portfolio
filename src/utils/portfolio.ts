@@ -244,6 +244,15 @@ export const PROJECTS: Project[] = [
     gradient: "from-[#3b82f6] via-[#6366f1] to-[#22d3ee]",
   },
   {
+  name: "Bus Booking System",
+  description:
+    "A full-featured online bus booking platform where users can search routes, book tickets, submit callback requests, contact support, leave reviews, and track booking confirmations. Includes an admin dashboard for managing bookings, drivers, reviews, and customer requests.",
+  tech: ["PHP", "MySQL", "HTML", "CSS", "JavaScript", "Bootstrap"],
+  github: "https://github.com/Anaskarim007/Bus-Booking",
+  demo: "https://busbooking.infinityfreeapp.com/busbooking/",
+  gradient: "from-[#2563eb] via-[#1d4ed8] to-[#0f172a]",
+},
+  {
     name: "Food Ordering Website",
     description:
       "Restaurant ordering platform with live menus, cart, delivery tracking and rider assignment.",
