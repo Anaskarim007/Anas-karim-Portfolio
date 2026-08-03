@@ -252,6 +252,15 @@ export const PROJECTS: Project[] = [
   demo: "https://busbooking.infinityfreeapp.com/busbooking/",
   gradient: "from-[#2563eb] via-[#1d4ed8] to-[#0f172a]",
 },
+{
+  name: "Wild Haven Tours",
+  description:
+    "Modern tours booking platform with location management, real-time booking requests, contact system, admin dashboard, authentication, and Supabase backend.",
+  tech: ["React", "TypeScript", "Supabase", "Tailwind CSS"],
+  github: "https://github.com/Anaskarim007/Wild-Haven-Tours-",
+  demo: "https://wild-haven-tours.vercel.app/",
+  gradient: "from-[#16a34a] via-[#22c55e] to-[#84cc16]",
+},
   {
     name: "Food Ordering Website",
     description:
